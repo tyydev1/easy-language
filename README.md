@@ -123,7 +123,7 @@ Please make sure to follow proper code style and write clear, readable code.
 
 ## License
 
-EASY is released under the Apache 3.0 license. You can use, copy, or modify the code, but redistribution or commercial use requires permission.
+EASY is released under the Apache 2.0 license. You can use, copy, or modify the code, but redistribution or commercial use requires permission.
 
 
 
