@@ -1,0 +1,66 @@
+?> This is a comprehensive test program for EASY
+
+?> 1. Testing basic output and variables
+say("=== Basic Output and Variables ===")
+set message to "Hello from EASY!"
+say(message)
+
+?> 2. Testing arithmetic operations
+say("\n=== Arithmetic Operations ===")
+set x to 10
+set y to 5
+say("x = " plus x)
+say("y = " plus y)
+say("x plus y = " plus (x plus y))
+say("x minus y = " plus (x minus y))
+say("x times y = " plus (x times y))
+say("x div y = " plus (x div y))
+
+?> 3. Testing lists
+say("\n=== List Operations ===")
+set mylist to [1, 2, 3]
+say("Original list: " plus mylist)
+add mylist to 4
+say("After adding 4: " plus mylist)
+remove mylist at 0
+say("After removing first element: " plus mylist)
+
+?> 4. Testing conditionals
+say("\n=== Conditionals ===")
+set number to 15
+if number above 10 then
+    say(number plus " is greater than 10")
+nextif number is 10 then
+    say(number plus " is equal to 10")
+otherwise
+    say(number plus " is less than 10")
+end
+
+?> 5. Testing loops
+say("\n=== Loops ===")
+say("Counting from 1 to 5:")
+repeat i from 1 through 5 do
+    say(i)
+end
+
+?> 6. Testing functions
+say("\n=== Functions ===")
+make double(n) do
+    give n times 2
+end
+
+set result to double(7)
+say("Double of 7 is: " plus result)
+
+?> 7. Testing built-in functions
+say("\n=== Built-in Functions ===")
+say("Type of 42: " plus typeOf(42))
+say("Type of 'text': " plus typeOf("text"))
+say("Type of [1,2,3]: " plus typeOf([1,2,3]))
+
+?> 8. Testing user input (commented out for automated testing)
+?> say("Enter your name:")
+?> set name to ask()
+?> say("Hello, " plus name)
+
+say("\n=== Test Complete ===")
