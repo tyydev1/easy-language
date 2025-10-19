@@ -59,7 +59,7 @@ set counter to 0
 while counter < 5
     say(counter)
     counter = counter + 1
-endwhile
+end
 ```
 
 ---
