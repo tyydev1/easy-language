@@ -8,7 +8,7 @@ EASY is a beginner-friendly programming language that's easy to install on any p
 
 1. Download the latest release:
 ```
-wget https://github.com/tyydev1/easy-language/releases/latest/download/easy-lang-1.0.0-linux.tar.gz
+wget https://github.com/tyydev1/easy-language/releases/latest/download/easy-lang-linux.tar.gz
 ```
 
 2. Extract and run the installer:
@@ -71,7 +71,7 @@ If Python is not installed:
 
 After installation, you should be able to run:
 ```bash
-easy --help
+easy --help # (maybe) doesn't work
 ```
 
 Or start the interactive shell:
