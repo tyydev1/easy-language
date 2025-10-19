@@ -3228,6 +3228,7 @@ say("Terima kasih telah menggunakan EASY Language!")
 - Python - Untuk struktur dasar interpreter
 - JavaScript - Untuk fleksibilitas sintaks
 - BASIC - Untuk kesederhanaan bahasa
+- CodePulse di YouTube - Menjelaskan dan membuat tutorial cara membuat bahasa program
 
 **Tools untuk Development:**
 - Text Editor: VS Code, Sublime Text, Notepad++
@@ -3312,9 +3313,7 @@ Menemukan bug? Laporkan di GitHub Issues!
 [Apa yang benar-benar terjadi]
 
 **Kode Contoh:**
-```esy
 [Masukkan kode yang menyebabkan bug]
-```
 
 **Environment:**
 - OS: [Windows 10 / Linux Ubuntu 20.04 / etc]
@@ -3458,7 +3457,7 @@ _Ini adalah rilis pertama dari EASY Language._
 
 Terima kasih kepada semua yang telah berkontribusi pada EASY Language:
 
-- **tyydev1** - Creator dan main developer
+- **tyydev1** - Creator and main developer
 
 [List akan diupdate dengan contributor lainnya]
 
@@ -3469,7 +3468,6 @@ EASY Language terinspirasi dari:
 - **Python** - Untuk struktur interpreter dan kesederhanaan
 - **JavaScript** - Untuk fleksibilitas sintaks
 - **BASIC** - Untuk filosofi "easy to learn"
-- **Logo** - Untuk pendekatan pembelajaran
 - **Scratch** - Untuk fokus pada pemula
 
 Terima kasih kepada komunitas bahasa pemrograman ini!
@@ -3510,5 +3508,5 @@ Terima kasih telah membaca dokumentasi EASY Language!
 
 *Dokumentasi ini adalah living document dan akan terus diupdate. Jika menemukan kesalahan atau punya saran perbaikan, silakan buat issue di GitHub.*
 
-*Last Updated: October 2025*
+*Last Updated: October 2025*,    
 *EASY Language Version: 1.0.0*
