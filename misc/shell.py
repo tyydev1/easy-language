@@ -4,9 +4,12 @@ import time
 last_interrupt_time = 0
 INTERRUPT_TIMEOUT = 1  # seconds
 
+print("Easy 1.0.0 Universal Version - Initial release")
+print("Welcome to Easy! This is the first published version of the Easy language.")
+
 while True:
     try:
-        text = input('\neasy>> ').strip()
+        text = input('>>> ').strip()
         if text == "": continue
         result, error = easy.run('<stdin>', text)
 
