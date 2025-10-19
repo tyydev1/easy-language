@@ -1,5 +1,6 @@
 # easy-language
 The EASY programming language is a beginner-friendly interpreted language made on Python.
+_Kalau aku kenal kamu, skip ke [sini](#frequently-asked-questions)
 
 ## What is EASY? 
 
@@ -101,7 +102,18 @@ Arithmetic: `+, -, *, /`
 
 Comparisons: `is, is not, <, >, <=, >=`
 
+---
 
+## Frequently Asked Questions
+
+### 1. Ini apaan di?
+Ini adalah bahasa program, seperti Scratch, Python, Arduino, dan contoh lainnya.
+
+### 2. Ini buat apa di?
+Ini dibuat untuk menulis program.
+
+### 3. Cara pake nya gimana di?
+Nanti akan dibikin tutorial, untuk sekarang liat [Referensi Bahasa](#language-reference)
 
 ---
 
