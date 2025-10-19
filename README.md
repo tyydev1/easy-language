@@ -1,6 +1,6 @@
 # easy-language
 The EASY programming language is a beginner-friendly interpreted language made on Python.
-_Kalau aku kenal kamu, skip ke [sini](#frequently-asked-questions)
+_Kalau aku kenal kamu, skip ke_ [sini](#frequently-asked-questions)
 
 ## What is EASY? 
 
