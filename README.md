@@ -22,6 +22,10 @@ EASY is designed with simplicity in mind:
 
 Whether you’re a beginner or just want a straightforward scripting language, EASY makes programming more approachable and fun.
 
+---
+## Installation
+
+Linux (preferably Arch) is supported with Quick Install: [Installation](https://github.com/tyydev1/easy-language/blob/main/INSTALLATION.md)
 
 ---
 
