@@ -30,6 +30,12 @@ Linux (preferably Arch) is supported with Quick Install: [Installation](https://
 
 ---
 
+## EASY Documentation
+
+The Documentation (made by AI) of the EASY language is as of the following: [The Easy Documentation.](https://github.com/tyydev1/easy-language/blob/main/DOCUMENTATION.md)
+
+---
+
 ## Quickstart Example
 
 Here’s a small example of EASY in action:
