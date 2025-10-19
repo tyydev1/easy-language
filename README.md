@@ -1,6 +1,7 @@
 # easy-language
 The EASY programming language is a beginner-friendly interpreted language made on Python.
 
+![Gambar code EASY](images/easy-codesnip1.png)
 ## What is EASY? 
 
 EASY is a simple, intuitive scripting language designed to be human-readable and easy to learn, allowing users to quickly write scripts that are clear and expressive. Its syntax focuses on readability while keeping programming concepts approachable.
