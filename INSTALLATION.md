@@ -40,9 +40,6 @@ If you prefer to install manually:
 
 ## Windows Installation
 
-# WINDOWS IS NOT YET SUPPORTED!
-The following is the planned guide for installing EASY on Windows.
-
 ### Quick Install (Recommended)
 
 1. Download the latest release: `easy-lang-windows.zip`
