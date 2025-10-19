@@ -2340,6 +2340,8 @@ end
 
 say("\nSetelah diurutkan:")
 say(angka)
+
+?> This example is flagged 'incomplete' by CodeRabbit.
 ```
 
 ### Mini Game
